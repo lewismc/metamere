@@ -27,7 +27,7 @@ $ pip install orbital
 alternatively you can install from source
 ```
 $ git clone https://github.com/lewismc/orbital.git
-$ cd orbital && pythong setup.py install
+$ cd orbital && python setup.py install
 ```
 
 ## License
